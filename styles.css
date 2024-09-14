@@ -120,4 +120,9 @@ button:hover {
     .social a:hover {
         background-color: #8c368b;
     }
+
+    #no{
+        position: absolute;
+        top: 60%;
+    }
 }
